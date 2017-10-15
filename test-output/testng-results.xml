@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16277" started-at="2017-10-15T15:39:31Z" finished-at="2017-10-15T15:39:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16277" started-at="2017-10-15T15:39:31Z" finished-at="2017-10-15T15:39:47Z">
+      <class name="CheckSuccessfulLogin">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:CheckSuccessfulLogin@bfbc86]" name="beforeMethod" is-config="true" duration-ms="3093" started-at="2017-10-15T21:09:31Z" finished-at="2017-10-15T21:09:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="login()[pri:0, instance:CheckSuccessfulLogin@bfbc86]" name="login" duration-ms="13145" started-at="2017-10-15T21:09:34Z" finished-at="2017-10-15T21:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- CheckSuccessfulLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
